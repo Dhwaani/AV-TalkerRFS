@@ -208,7 +208,7 @@ DOA front end and any face detector can be substituted for the simulated ones.
 
 ## Related
 
-Built on the shared machinery of [TalkerRFS](https://github.com/Dhwaani/TalkerRFS), which does the audio-only
+Built on the shared machinery of [TalkerRFS](https://github.com:Dhwaani/AV-TalkerRFS), which does the audio-only
 half of this problem. Fixes flow between the two repositories, and the regression tests travel with the shared modules.
 
 ## License
