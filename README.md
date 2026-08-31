@@ -9,7 +9,6 @@ The claim in one line: a filter that knows **when** each sensor is blind
 localises talkers more accurately, and counts them more reliably, than a filter
 holding the *same two sensors* with constant detection probabilities.
 
-![Coverage by sensor regime](results/figures/fig2_regimes.png)
 
 ---
 
@@ -211,11 +210,9 @@ The first things a reviewer should check, collected rather than scattered.
 
 ## Related
 
-Built on the shared machinery of
-[TalkerRFS](https://github.com/Dhwaani/TalkerRFS), which does the audio-only
-half of this problem. Fixes flow between the two repositories, and the
-regression tests travel with the shared modules.
+Built on the shared machinery of [TalkerRFS](https://github.com/Dhwaani/TalkerRFS), which does the audio-only
+half of this problem. Fixes flow between the two repositories, and the regression tests travel with the shared modules.
 
-## Licence
+## License
 
 MIT.
