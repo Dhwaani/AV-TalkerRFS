@@ -1,0 +1,32 @@
+# Byte-compiled / Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build artifacts & package info
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Environment variables & secrets
+.env
+
+# Large datasets / local output models (optional for ML repos)
+*.pt
+*.onnx
+*.npy
