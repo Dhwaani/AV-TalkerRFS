@@ -169,9 +169,7 @@ DOA front end and any face detector can be substituted for the simulated ones.
 
 ---
 
-## Honesty notes
-
-The first things a reviewer should check, collected rather than scattered.
+## Scope & known limitations
 
 * **Everything is simulated, at the measurement level only.** There is no
   rendered audio and no rendered video here. The predecessor project found that
