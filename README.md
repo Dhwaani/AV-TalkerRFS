@@ -99,7 +99,7 @@ _25 independent 40-second scenarios, three talkers, identical measurements for e
 _8 scenarios per cell, thresholds re-calibrated per cell._
 <!-- RESULTS:end -->
 
-### How to read this — the result is real but narrower than it first looked
+### How to read this
 
 **The modeled filter wins accuracy, not continuity.** It leads on OSPA (~22%
 over naive fusion) and on head-count RMSE (~16%), and it leads across every cell
